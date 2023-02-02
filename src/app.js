@@ -61,7 +61,7 @@ app.get('/users/:id', (req, res) => {
 
 
 app.listen(9000, () => {
-    console.log('Server started at port 10000')
+    console.log('Server started at port 9000')
 })
 
 
